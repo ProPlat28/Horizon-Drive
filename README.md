@@ -4,6 +4,8 @@ Horizon Drive is a 3D open-world driving and racing game that runs directly in t
 
 Explore large environments, race against AI opponents, customize your car, discover different maps, and freely drive around the world.
 
+Made by d4shy and ProPlat
+
 ## 🎮 Features
 
 - 🏁 Race against AI opponents
@@ -224,7 +226,3 @@ The Settings menu contains options for:
 - Custom keybinds
 
 Game settings and controls are saved using browser storage.
-
-🏎️ Horizon Drive
-
-Made by d4shy and ProPlat
