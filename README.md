@@ -227,4 +227,4 @@ Game settings and controls are saved using browser storage.
 
 🏎️ Horizon Drive
 
-Made by Ghanim and ProPlat
+Made by d4shy and ProPlat
