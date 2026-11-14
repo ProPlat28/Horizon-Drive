@@ -34,22 +34,33 @@ Explore large environments, race against AI opponents, customize your car, disco
 
 ## 🗺️ Maps
 
-Horizon Drive includes multiple environments:
+Every map has its own hand-designed layout, terrain, towns and landmarks.
 
-- Home Loop
-- Sunny Coast
-- Desert Dash
-- Alpine Pass
-- Autumn Valley
-- Twisty Gorge
-- Mega Circuit
-- Misty Moor
-- Tropic Isles
-- Rally Forest
-- Sunset Ridge
-- Ice Run
+**Classic**
 
-Each map has different terrain and environmental settings.
+- Neon Harbor: downtown towers, a harbour and a ring road
+- Palm Coast: beach towns along a long seaside road
+- Pine Hollow: a twisty rally road through deep forest and lakes
+- Red Mesa: narrow red canyons between mesas
+- Meadowbrook: farms, fields, windmills and villages
+- Frostfall: snowy mountain valleys and chalet villages
+- Ember Isle: a ring road around a smoking volcano
+- City: the original city with its ring road, downtown plaza, river bridges and mansion
+- Campaign: the original campaign world, open countryside with no buildings
+
+**Large**
+
+- Azure Archipelago: seven islands joined by long bridges
+- Sierra Pass: green valleys under snowy peaks and lakes
+- Golden Dunes: open desert, dunes and an oasis town
+- Riverlands: farmland split by a winding river
+
+**Huge**
+
+- Grand Metropolis: a huge city with suburbs, a highway and a harbour
+- Great Canyon: endless canyon roads and desert outposts
+- Endless Coast: a 30 km coastline of beaches and hills
+- Polar Expanse: frozen lakes and remote research outposts
 
 ## 🏁 Game Modes
 
@@ -182,7 +193,8 @@ The game world contains different types of scenery, including:
 - Traffic
 - Pedestrians
 - Race tracks
-- Underground routes
+- Lighthouses, windmills, piers and boats
+- A volcano with a lava crater
 - Garages
 - Mansions
 
@@ -227,6 +239,9 @@ The Settings menu contains options for:
 - Speed display
 - Control display
 - Camera behavior
+- Night mode
+- Graphics quality: Low (original look), Medium, High
+- Old sounds (the original engine sound)
 - Custom keybinds
 
 Game settings and controls are saved using browser storage.
